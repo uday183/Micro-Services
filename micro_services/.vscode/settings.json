@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "admin",
+            "driver": "MySQL",
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "name": "uday",
+            "password": "root",
+            "port": 33066,
+            "previewLimit": 50,
+            "server": "localhost",
+            "username": "root"
+        }
+    ]
+}
